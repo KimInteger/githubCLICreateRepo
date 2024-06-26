@@ -1,0 +1,11 @@
+{
+  "name": "githubclicreaterepo",
+  "version": "1.0.0",
+  "description": "\"와 CLI로 레포만들기 성공!\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KimInteger",
+  "license": "MIT"
+}
